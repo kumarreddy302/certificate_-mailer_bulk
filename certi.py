@@ -6,10 +6,10 @@ from email import encoders
 import pandas as pd
 
 # Email credentials and server settings
-smtp_server = "smtp.lmsrscs.me"
-smtp_port = 465
-username = "no-reply-otp@lmsrscs.me"
-password = "Kumar31@"  # Replace with your actual password
+smtp_server = ""
+smtp_port = 
+username = ""
+password = ""  # Replace with your actual password
 
 # Load cleaned recipient data
 data = pd.read_csv('123.csv')
